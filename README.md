@@ -1,20 +1,12 @@
 # awesome-ai learning the basics
-- https://github.com/pankajmaurya/nanoGPT (del)
 - https://github.com/karpathy/nanoGPT
-- https://github.com/pankajmaurya/nlp-with-transformers-notebooks (del)
 - https://github.com/nlp-with-transformers/notebooks
-- https://github.com/pankajmaurya/micrograd-ts (del)
 - https://github.com/trekhleb/micrograd-ts
-- https://github.com/pankajmaurya/openai-cookbook (del)
 - https://github.com/openai/openai-cookbook
-- https://github.com/pankajmaurya/openai-clojure (del)
 - https://github.com/wkok/openai-clojure
-- https://github.com/pankajmaurya/langchain-play (del)
 - https://github.com/ruankie/langchain-play
-- https://github.com/pankajmaurya/lit-gpt (del)
 - https://github.com/Andrei-Aksionov/lit-gpt
 - https://github.com/RedisVentures/redis-arXiv-search
-- https://github.com/pankajmaurya/langchain-experiments (del)
 - https://github.com/daveebbelaar/langchain-experiments
 
 ## awesome-ai knowledge bases
