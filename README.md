@@ -25,6 +25,7 @@
 - https://github.com/oobabooga/text-generation-webui
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/steamship-packages/prompt-api-template
+- https://github.com/salesforce/CodeGen
 
 ## awesome-llama
 - https://github.com/ggerganov/llama.cpp
