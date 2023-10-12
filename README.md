@@ -10,6 +10,9 @@
 - https://github.com/RedisVentures/redis-arXiv-search
 - https://github.com/pankajmaurya/langchain-experiments
 
+## awesome-ai knowledge bases
+- https://github.com/pankajmaurya/awesome-ai-devtools
+
 ## awesome-ai toolkits
 - https://github.com/langchain-ai/langchain
 - https://github.com/FlowiseAI/Flowise
@@ -18,26 +21,18 @@
 - https://github.com/AntonOsika/gpt-engineer
 - https://github.com/mckaywrigley/chatbot-ui 
 - https://github.com/hwchase17/langchain-hub
-- https://github.com/pankajmaurya/awesome-ai-devtools (knowledge base)
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/oobabooga/text-generation-webui
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/steamship-packages/prompt-api-template
 
 ## awesome-llama
-- https://github.com/pankajmaurya/llama.cpp (del)
 - https://github.com/ggerganov/llama.cpp
-- https://github.com/pankajmaurya/llama2.c (del)
 - https://github.com/karpathy/llama2.c
-- https://github.com/pankajmaurya/llama (del)
 - https://github.com/facebookresearch/llama
-- https://github.com/pankajmaurya/llama-cpp-python (del)
 - https://github.com/abetlen/llama-cpp-python
-- https://github.com/pankajmaurya/gpt-llama.cpp (del)
 - https://github.com/keldenl/gpt-llama.cpp
-- https://github.com/pankajmaurya/Auto-Llama-cpp (del)
 - https://github.com/rhohndorf/Auto-Llama-cpp
-- https://github.com/pankajmaurya/stanford_alpaca (del)
 - https://github.com/tatsu-lab/stanford_alpaca
 
 ## awesome-ai code generation
