@@ -25,13 +25,20 @@
 - https://github.com/steamship-packages/prompt-api-template
 
 ## awesome-llama
-- https://github.com/pankajmaurya/llama.cpp
-- https://github.com/pankajmaurya/llama2.c
-- https://github.com/pankajmaurya/llama
-- https://github.com/pankajmaurya/llama-cpp-python
-- https://github.com/pankajmaurya/gpt-llama.cpp
-- https://github.com/pankajmaurya/Auto-Llama-cpp
-- https://github.com/pankajmaurya/stanford_alpaca
+- https://github.com/pankajmaurya/llama.cpp (del)
+- https://github.com/ggerganov/llama.cpp
+- https://github.com/pankajmaurya/llama2.c (del)
+- https://github.com/karpathy/llama2.c
+- https://github.com/pankajmaurya/llama (del)
+- https://github.com/facebookresearch/llama
+- https://github.com/pankajmaurya/llama-cpp-python (del)
+- https://github.com/abetlen/llama-cpp-python
+- https://github.com/pankajmaurya/gpt-llama.cpp (del)
+- https://github.com/keldenl/gpt-llama.cpp
+- https://github.com/pankajmaurya/Auto-Llama-cpp (del)
+- https://github.com/rhohndorf/Auto-Llama-cpp
+- https://github.com/pankajmaurya/stanford_alpaca (del)
+- https://github.com/tatsu-lab/stanford_alpaca
 
 ## awesome-ai code generation
 - https://github.com/pankajmaurya/CodeGen
