@@ -26,6 +26,7 @@
 - https://github.com/openai/chatgpt-retrieval-plugin
 - https://github.com/steamship-packages/prompt-api-template
 - https://github.com/salesforce/CodeGen
+- https://github.com/mckaywrigley/ai-code-translator
 
 ## awesome-llama
 - https://github.com/ggerganov/llama.cpp
