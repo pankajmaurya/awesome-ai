@@ -43,3 +43,5 @@
 - https://github.com/pankajmaurya/ai-code-translator
 - https://github.com/pankajmaurya/AutoCoderV1node
 
+## awesome ai experiments
+- https://github.com/GreenWizard2015/User-Country-Analytics
