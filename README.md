@@ -10,7 +10,7 @@
 - https://github.com/daveebbelaar/langchain-experiments
 
 ## awesome-ai knowledge bases
-- https://github.com/pankajmaurya/awesome-ai-devtools
+- https://github.com/jamesmurdza/awesome-ai-devtools
 - https://github.com/pankajmaurya/awesome-langchain
 
 ## awesome-ai toolkits
