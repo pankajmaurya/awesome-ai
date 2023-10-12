@@ -11,7 +11,7 @@
 
 ## awesome-ai knowledge bases
 - https://github.com/jamesmurdza/awesome-ai-devtools
-- https://github.com/pankajmaurya/awesome-langchain
+- https://github.com/kyrolabs/awesome-langchain
 
 ## awesome-ai toolkits
 - https://github.com/langchain-ai/langchain
